@@ -31,7 +31,7 @@
 - [x] Ver detalhes da issue
 
 ### 💻 Demonstração
-<img src="https://github.com/gabriel-nt/coffee-delivery/blob/master/src/assets/cover.png" alt="Imagem de demonstração" />
+<img src="https://github.com/gabriel-nt/github-blog/blob/master/src/assets/cover.png" alt="Imagem de demonstração" />
 
 ### ⚙ Pré-requisitos
 
